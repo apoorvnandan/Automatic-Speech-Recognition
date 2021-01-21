@@ -24,6 +24,5 @@ setup(
       'tensorflow>=2.0', 'pandas', 'tables', 'scipy',
       'google-cloud-storage',    # Load weights
       'python-speech-features'
-   ],
-   python_requires='~=3.7',
+   ]
 )
